@@ -1,5 +1,5 @@
 
-# Audio Speed Changer
+# Change Music Speed
 
 ## 概要
 このスクリプトは、指定した倍率で MP3 ファイルの再生速度を変更するツールです。  
